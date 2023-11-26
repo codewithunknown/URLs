@@ -1,7 +1,6 @@
 # Coding Profiles
 
-Hello! 👋 I'm Vivek Ramakrishna, a passionate coder and problem solver. Here are my profiles on various coding platforms:
-
+Hello! 👋 I'm Vivek Ramakrishna
 - **LeetCode:** [Vivek on LeetCode](https://leetcode.com/vivekramakrishna)
   
 
